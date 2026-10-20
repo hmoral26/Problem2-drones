@@ -1,0 +1,6 @@
+Resources used for Problem 2
+
+- Class slides: Factory Pattern (Abstract Factory section)
+- Homework 1 (drone management problem)
+- UML drawn for this problem before coding
+
